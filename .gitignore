@@ -1,0 +1,5 @@
+# Bazel build directories
+bazel-bin/
+bazel-out/
+bazel-secret-hitler-game/
+bazel-testlogs/
