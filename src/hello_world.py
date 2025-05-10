@@ -1,5 +1,4 @@
-def main():
-    print("Hello World!")
+from hello_world_lib import PrintWorld 
 
 if __name__ == "__main__":
-    main()
+    print(PrintWorld())
